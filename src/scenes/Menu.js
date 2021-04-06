@@ -8,4 +8,4 @@ class Menu extends Phaser.Scene {
         //change scenes
         this.scene.start("playScene");
     }
-}
+} //does this commit work?
