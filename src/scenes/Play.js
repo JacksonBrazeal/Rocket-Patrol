@@ -153,3 +153,4 @@ if (this.gameOver && Phaser.Input.Keyboard.JustDown(keyLEFT)) {
         this.sound.play('sfx_explosion');
     }
 }
+// the game is finished!
